@@ -26,4 +26,4 @@ The thesis report is written in LaTeX. All results and graphs were generated usi
 
 ### *Contact*
 For queries: aakritiy16@gmail.com
-README.md
+
